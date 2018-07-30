@@ -1,34 +1,8 @@
-## Welcome to GitHub Pages for psyclops
+## Welcome
+This site has been created following the github tutorials. This site and contents are for learning the tools only.
 
-You can use the [editor on GitHub](https://github.com/psyclops67/psyclops67.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-### Sources 
- - First bullet
- - Second bullet  
-
+### Extras
+More stuff to learn.
 
 
 
