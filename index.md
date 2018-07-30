@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ### Sources 
+ - First bullet
+ - Second bullet  
 
 
 
